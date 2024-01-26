@@ -1,0 +1,7 @@
+En esta aula:
+
+Aprendimos a mejorar el código existente, haciéndolo más eficiente y legible. En este caso, refactorizamos la función que realiza el sorteo del número secreto, haciéndola más sólida y asegurando que el número sorteado no se repita;
+Creamos una cuenta en Github con un repositorio para subir nuestro código a la nube y publicamos nuestro proyecto en la plataforma Vercel, lo que permite que sea accesible desde cualquier lugar.
+En la próxima aula:
+
+Tendrás la oportunidad de poner en práctica todo el conocimiento que has adquirido resolviendo un desafío. ¡Hasta entonces, buena suerte!
