@@ -1,0 +1,26 @@
+¡Ha llegado el momento de celebrar tu gran logro!
+En este curso de lógica, has superado todas las barreras y te has sumergido en la programación. Has aprendido cómo configurar el entorno de desarrollo hasta la creación de un juego completo con diferentes interacciones.
+
+Y lo mejor de todo es que ahora eres parte de la comunidad de desarrolladores que tienen acceso a un vasto ecosistema de herramientas, documentación y soporte técnico.
+
+¡Guau, cuántas cosas geniales!
+
+"La valentía no es la ausencia del miedo; es la persistencia a pesar del miedo…" (Desconocido)
+
+//Conclusiones
+
+Bueno Leo, hemos llegado al final de nuestro curso. Estamos muy felices porque has completado esta etapa de lógica de programación con este segundo curso. En él, hemos descubierto muchas funcionalidades, muchas partes conceptuales de la lógica de programación, pero lo más importante es un proyecto práctico que ahora es parte de tu portafolio. Tienes un enlace, un juego secreto para compartir con tus amigos. Lo que quiero es que hagas eso, que lo divulges y muestres a la comunidad lo que estás aprendiendo.
+
+Pero Leo, resúmenos aquí qué fue lo que vimos en este segundo curso.
+
+Bueno, partiendo de lo que es el producto final que está en pantalla, que es el enlace de tu juego, hicimos un recorrido muy interesante. Reforzamos la gestión de variables, esas cajas de memoria, conocimos un nuevo tipo de datos que son los arreglos y trabajamos con ese concepto de bloque de código que retorna resultados y que es reutilizable, que son las funciones. Así, hicimos una implementación bien elaborada, bastante profesional. Además, en esta oportunidad logramos conectar el HTML con el JavaScript como lo hace el mercado actualmente, a través del Document Object Model (Modelo de Objetos del Documento).
+
+Excelente, también vimos recursividad cuando utilizamos las funciones, algo muy importante que puede parecer muy abstracto al comienzo para una persona que está empezando. Pero lo vimos aquí, su forma práctica y la utilización de la recursividad. Vimos la recursividad, vimos que es importante tener esas condiciones de salida, sino nuestro programa se va a quedar trabajando. Lo más importante es que esta aplicación de conceptos que hemos aprendido en estos cursos de lógica de programación son aplicables no solo en JavaScript, también en otros lenguajes de programación.
+
+Así es, así que si tu sueño es ser una persona desarrolladora de desarrollo web, una persona desarrolladora frontend, JavaScript va a estar muy presente en tu día a día. Pero si tu deseo es entrar en otros campos, ya sea para el backend, entender otros lenguajes de programación como Java, C Sharp, Python, todos estos conceptos también son válidos en esos otros lenguajes de programación.
+
+Estamos muy felices de haber llegado, de haber completado este curso. No desistas, la programación es un camino largo, no es una carrera de 100 metros, es una maratón. Se requiere de mucho esfuerzo, de mucha dedicación, tienes mucho por aprender aún, este viaje recién comienza. Apóyate aquí en los cursos, como dijimos tenemos el curso de GitHub donde puedes profundizar en la parte de GitHub de versionamiento y cómo compartir los códigos. Tienes más cursos de profundización en cada uno de los lenguajes, entonces hay mucho para dónde seguir.
+
+Quiero que compartas tus proyectos en las redes sociales, ese enlace que has generado también. Muestra a la comunidad lo que estás aprendiendo, marca a Uralatán, marca aquí al profesor Leo en LinkedIn, puedes marcar a mí, nos sentimos muy orgullosos y felices cuando vemos el avance de todas ustedes.
+
+Y por último, pero no menos importante, deja tu nota aquí al final del curso, ¿ok? Si cumplimos con tus expectativas, deja los comentarios de qué es lo que más te gustó en este curso. Nos vemos en un próximo entrenamiento, un fuerte abrazo y chau chau.
